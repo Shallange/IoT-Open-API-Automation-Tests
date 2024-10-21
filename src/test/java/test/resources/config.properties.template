@@ -1,0 +1,5 @@
+# config.properties.template
+
+api.url=https://lynx.iotopen.se
+installation.id=YOUR_INSTALLATION_ID
+api.token=YOUR_API_TOKEN

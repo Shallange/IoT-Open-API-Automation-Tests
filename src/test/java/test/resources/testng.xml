@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="IoT Open Test Suite">
+
+    <!-- Device Tests -->
+    <test name="Device Tests">
+        <classes>
+            <class name="test.tests.devices.DeviceTest"/>
+        </classes>
+    </test>
+
+    <!-- Function Tests -->
+    <test name="Function Tests">
+        <classes>
+            <class name="test.tests.functions.FunctionTest"/>
+        </classes>
+    </test>
+
+</suite>
